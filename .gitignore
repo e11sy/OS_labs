@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
 
+# Dev Tools
+.vscode/*
+
+# Assets
+*.txt
+*.bin
+
 # Compiled Object files
 *.slo
 *.lo
